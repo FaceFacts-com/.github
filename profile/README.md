@@ -30,15 +30,15 @@ kimyasalları öğrenebilecek
 belirtmek için bizimle iletişime geçebilecek
 
 ## Neden FaceFacts 
-- Doğru Bilgilendirme: 
+**Doğru Bilgilendirme:** 
   FaceFacts, kozmetik ürünlerin içeriğinde bulunan potansiyel riskleri belirleme konusunda kullanıcıları bilgilendirir.
  Bu, kullanıcıların daha sağlıklı cilt bakım ürünleri seçmelerine yardımcı olur.
-- Çeşitli Bilgi Kaynakları: 
+**Çeşitli Bilgi Kaynakları:**
   Platform, blog yazıları ve chatbot aracılığıyla kullanıcılara cilt bakımıyla ilgili faydalı ipuçları ve tavsiyeler sunar. 
   Bu, kullanıcıların cilt bakımıyla ilgili bilgiye erişimini artırır.
-- Kişiselleştirilmiş Tavsiyeler: Chatbot, kullanıcıların cilt tiplerine uygun tavsiyeler sunar ve sorularını yanıtlar. 
+**Kişiselleştirilmiş Tavsiyeler:** Chatbot, kullanıcıların cilt tiplerine uygun tavsiyeler sunar ve sorularını yanıtlar. 
 Bu, her kullanıcının ihtiyaçlarına uygun öneriler almasını sağlar.
-- İletişim Kolaylığı: Kullanıcılar, iletişim formu aracılığıyla isteklerini, önerilerini ve şikayetlerini iletebilirler. 
+**İletişim Kolaylığı:** Kullanıcılar, iletişim formu aracılığıyla isteklerini, önerilerini ve şikayetlerini iletebilirler. 
 Bu, kullanıcıların geri bildirimlerini kolayca iletebilmelerini sağlar ve platformun sürekli olarak gelişmesine katkıda bulunmalarını sağlar.
 
 Destek ve sponsor olmak için bizimle iletişime geçebilir veya organizasyon üzerinden ekibe dahil olup yazlım desteği verebilirsiniz.!
