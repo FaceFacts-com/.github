@@ -14,9 +14,9 @@ doğru ürünleri tercih etme konusunda kullanıcılara güven vermek
 amaçlanmaktadır.
 
 ## Teknolojiler 🚀
-- Frontend: React.js
-- Backend: Node.js
-- Veritabanı: MongoDB
+- Frontend: Html, CSS, Javascript
+- Backend: Python
+- Veritabanı: SQLlite
 
 
 ## Özellikler ✨
