@@ -16,7 +16,7 @@ amaçlanmaktadır.
 ## Teknolojiler 🚀
 - Frontend: Html, CSS, Javascript
 - Backend: Python
-- Veritabanı: SQLlite
+- Veritabanı: SQLite
 
 
 ## Özellikler ✨
