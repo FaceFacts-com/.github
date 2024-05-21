@@ -4,6 +4,7 @@ Bu organizasyon Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü Y
 # FaceFacts🌿
 FaceFacts, kullanıcıların kozmetik ürün içeriklerini analiz ederek potansiyel riskleri belirlemesine ve daha sağlıklı cilt bakım ürünleri seçmesine yardımcı olan bir platformdur.
 <br>
+
 ![Demo Linki](https://github.com/FaceFacts-com/facefacts-details/blob/main/facefactsdemo.mp4)🎈
 
 ## Proje Amaçları :raised_hands:
