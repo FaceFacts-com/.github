@@ -2,7 +2,6 @@
 Bu organizasyon Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü Yazılım Mühendisliği dersi dönem projesi için oluşturulmuştur.
 
 # FaceFacts🌿
-Kozmetikler
 
 ![Demo Linki](https://github.com/FaceFacts-com/facefacts-details/blob/main/facefactsdemo.mp4)🎈
 
