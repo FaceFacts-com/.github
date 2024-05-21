@@ -4,7 +4,7 @@ Bu organizasyon Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü Y
 # FaceFacts🌿
 Kozmetikler
 
-![Demo Linki](https://github.com/FaceFacts-com/facefacts-details/blob/main/facefactsdemo.mp4) :🎈:
+![Demo Linki](https://github.com/FaceFacts-com/facefacts-details/blob/main/facefactsdemo.mp4)🎈
 
 ## Proje Amaçları :raised_hands:
 Kullanıcılar, cilt bakım ürününün içerik listesini girdiklerinde, bu platform
