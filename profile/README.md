@@ -30,7 +30,8 @@ kimyasalları öğrenebilecek
 - Kullanıcılar iletişim formuyla isteklerini, önerilerini ve şikayetlerini
 belirtmek için bizimle iletişime geçebilecek
 
-## Neden FaceFacts 
+## Neden FaceFacts 🔍
+
 - **Doğru Bilgilendirme:**
   <br>
   FaceFacts, kozmetik ürünlerin içeriğinde bulunan potansiyel riskleri belirleme konusunda kullanıcıları bilgilendirir.
