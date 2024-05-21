@@ -50,7 +50,7 @@ Destek ve sponsor olmak için bizimle iletişime geçebilir veya organizasyon ü
 - **Sevgi Nur Öksüz** [@sevginuroksuz](https://github.com/sevginuroksuz) (Full Stack Developer)
 - **Sümeyye Dural** [@sumeyyedrl](https://github.com/sumeyyedrl) (Full Stack Developer)
 - **Tümay Işıldak** [@tumayisildak](https://github.com/tumayisildak) (Full Stack Developer)
-- - **Elif Doylan** [@elifdoylan](https://github.com/elifdoylan) (Full Stack Developer)
+- **Elif Doylan** [@elifdoylan](https://github.com/elifdoylan) (Full Stack Developer)
 
 Bizimle iletişime geçebilir veya organizasyon üzerinden ekip ile iletişim kurabilirsiniz.!
 
