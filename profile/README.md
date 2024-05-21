@@ -50,7 +50,7 @@ belirtmek için bizimle iletişime geçebilecek
 
 Destek ve sponsor olmak için bizimle iletişime geçebilir veya organizasyon üzerinden ekibe dahil olup yazlım desteği verebilirsiniz.!
 
-🌿 "Cilt sağlığınızı bilinçli seçimlerle koruyun: FaceFacts ile gerçek güzellik!" 🌿
+🌿 Cilt sağlığınızı bilinçli seçimlerle koruyun: FaceFacts ile gerçek güzellik! 🌿
 ## Geliştiriciler ve İletişim  👩‍💻
 
 - **Selcan Çelikel** [@selcancelikel](https://github.com/selcancelikel) (Full Stack Developer)
